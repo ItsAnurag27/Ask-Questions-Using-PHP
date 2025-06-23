@@ -11,7 +11,7 @@ $userId = $user['user_id'] ?? null;
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <a class="navbar-brand" href="./">
-      <img src="../public/logo.png" alt="Logo" style="height: 40px;" />
+      <img src="./public/logo.png" alt="Logo" style="height: 40px;" />
     </a>
 
     <div class="collapse navbar-collapse" id="navbarNav">

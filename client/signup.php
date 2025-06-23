@@ -1,7 +1,7 @@
 <div class="container">
 <h1 class="heading">Signup </h1>
 
-<form method="post" action="../server/requests.php">
+<form method="post" action="./server/requests.php">
   <div class="col-6 offset-sm-3 margin-bottom-15">
     <label for="username" class="form-label">User Name</label>
     <input type="text" name="username" class="form-control" id="username" placeholder="enter user name">

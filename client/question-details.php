@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-8">
             <?php
-            include("../common/db.php");
+            include("./common/db.php");
             $query = "select * from questions where id =$qid";
             $result = $conn->query($query);
             $row = $result->fetch_assoc();

@@ -30,3 +30,12 @@ a{
     display: flex;
     justify-content: space-between;
 }
+
+.navbar-brand {
+  width: 800px;
+  height: 800px;
+  image-rendering: auto;
+
+
+
+}
